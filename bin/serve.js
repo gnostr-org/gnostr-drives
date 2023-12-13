@@ -58,7 +58,7 @@ module.exports = async function cmd (src, options = {}) {
     filter: (id, filename) => {
       // TODO: remove "corestore" at some point
       filename = filename.toLowerCase()
-      return !(filename.startsWith('/.drives/') || filename.startsWith('/corestore/'))
+      return !(filename.startsWith('/.gnostr/drives/') || filename.startsWith('/corestore/'))
     }
   })
 
