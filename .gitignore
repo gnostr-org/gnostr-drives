@@ -4,4 +4,7 @@ package-lock.json
 .gnostr/drives
 yarn.lock
 
+node-to-rust.zip
+node-to-rust/
+
 **.DS_Store
