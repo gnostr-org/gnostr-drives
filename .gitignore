@@ -3,3 +3,5 @@ package-lock.json
 .nvmrc
 .gnostr/drives
 yarn.lock
+
+**.DS_Store
