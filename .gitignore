@@ -8,3 +8,5 @@ node-to-rust.zip
 node-to-rust/
 
 **.DS_Store
+
+target
